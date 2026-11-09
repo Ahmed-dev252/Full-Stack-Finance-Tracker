@@ -1,0 +1,30 @@
+
+
+# Node modules (Galka maktabadaha oo aad u weyn, GitHub looma rari karo)
+node_modules/
+jspm_packages/
+
+# Environment variables (Halkan waxaa ku jira sirtaada, marnaba hura ha u oggolaan GitHub)
+.env
+.env.local
+.env.*.local
+
+# Logs (Feylasha ciladaha qora)
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files (Feylasha nodaamka kombuyutarka oo qarsoon)
+.DS_Store
+Thumbs.db
+
+# IDEs and editors (Feylasha software-ka aad koodhka ku qorayso)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
