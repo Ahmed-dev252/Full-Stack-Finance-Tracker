@@ -89,7 +89,7 @@ const RegisterForm = () => {
                             </div>
                             <Input
                                 name="name"
-                                placeholder="John Doe"
+                                placeholder="Ahmed Abdinuur"
                                 required
                                 value={formValues.name}
                                 onChange={handleInputChange}
